@@ -7,7 +7,7 @@
 
 Esse desafio foi passado pela M3 Academy com o intuito de aprimorar e praticar os conhecimentos aprendidos na aula sobre Responsividade e sobre HTML5 e CSS3.
 
-### <a href="https://luizfelipe9627-challenge-page-m3.netlify.app">Acesse o desafio</a>
+### <a href="https://luizfelipe9627-landing-page-m3.netlify.app">Acesse o desafio</a>
 
 ## 💻 Tecnologias utilizadas
 

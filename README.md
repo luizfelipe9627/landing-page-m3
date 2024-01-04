@@ -1,13 +1,12 @@
-# Challenge Landing Page - M3 Academy
+# Challenge Landing Page M3
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
 <img src="https://github.com/luizfelipe9627/landing-page-m3/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do desafio">
 
 ## 📄 Descrição
-
 Esse desafio foi passado pela M3 Academy com o intuito de aprimorar e praticar os conhecimentos aprendidos na aula sobre Responsividade e sobre HTML5 e CSS3.
 
-### <a href="https://luizfelipe9627-landing-page-m3.netlify.app">Acesse o desafio</a>
+### <a href="https://luizfelipe9627-landing-page-m3.netlify.app">Acesse o site</a>
 
 ## 💻 Tecnologias utilizadas
 
